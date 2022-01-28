@@ -103,6 +103,11 @@
 <version>2.19.1</version>  
  
 </plugin>  
+	<configuration>  
+<suiteXmlFiles>  
+<suiteXmlFile>C:\Users\Reddy\Desktop\Eclipse\MySecondDemo\testng.xml</suiteXmlFile>  
+</suiteXmlFiles>  
+</configuration> 
 <plugin>  
 <groupId>org.apache.maven.plugins</groupId>  
 <artifactId>maven-source-plugin</artifactId>  
